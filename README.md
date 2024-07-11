@@ -18,7 +18,12 @@ Trip-Squad is a travel planner application designed to help users organize their
 - **Email Invitation:** Invite guests via email with options to manage individual and group invitations.
 - **API Integration:** Utilize Axios for seamless interaction with backend APIs.
 - **Modular Design:** Implement modals for interactive user actions like squad management and email invitations.
+
+
+## TODO
+
 - **Responsive UI:** Ensure a responsive user interface for a seamless experience across devices.
+- **Complete Remaining Functionalities:** Finish implementing all remaining functionalities for Trip-Squad.
 
 ## Installation
 
