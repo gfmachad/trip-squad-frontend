@@ -32,10 +32,6 @@ To run the Trip-Squad frontend locally, follow these steps:
 
 Contributions are welcome! If you have suggestions, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](link-to-license).
-
 ## Acknowledgements
 
 Trip-Squad Frontend was developed as part of the NLW event by RocketSeat. Special thanks to the mentors and community for their support.
